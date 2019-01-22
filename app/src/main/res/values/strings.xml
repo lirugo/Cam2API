@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cam2API</string>
+    <string name="desc_take_pic_btn">Take pic btn</string>
+    <string name="desc_start_video_record">start_video_record</string>
+</resources>
